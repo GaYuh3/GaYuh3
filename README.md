@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+## 👩‍💻 About Me:<br><br>🔭 I’m currently working on  <br>- Agentic AI-based Acoustic Echo Cancellation (AEC) system (multi-mic, real-time)  <br>- Embedded IoT systems using ESP32 & Arduino (ADAS, smart automation)<br><br>🤝 I’m looking to collaborate on  <br>- Audio signal processing & speech enhancement  <br>- Embedded + AI systems  <br>- Wireless communication & IoT applications  <br><br>🧠 I’m looking for help with  <br>- Optimizing deep learning models for real-time deployment (CUDA, memory efficiency)  <br>- Advanced DSP techniques for multi-channel audio processing  <br><br>🌱 I’m currently learning  <br>- PyTorch with GPU acceleration (CUDA)  <br>- System-level design for scalable AI pipelines  <br>- Communication systems <br><br>💬 Ask me about  <br>- Acoustic Echo Cancellation (AEC), Beamforming  <br>- Embedded systems (ESP32, Arduino, sensors)  <br>- MATLAB, Python (PyTorch), Signal Processing  <br>- IoT product design & prototyping  <br><br>🏆 Highlights  <br>- 📄 IEEE Published Paper on LoRa-based communication systems  <br>- 🧠 Filed Patent (IOT/Embedded Systems domain)  <br>- 🛠️ Internship at L&T (Avionics systems debugging & testing)  <br><br>⚡ Fun fact  <br>- I enjoy building end-to-end systems — from hardware circuits to AI models 🚀
 
-<!--
-**GaYuh3/GaYuh3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Gayathri S B) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gayathri.sb718@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=GaYuh3&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=GaYuh3&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GaYuh3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
